@@ -1,0 +1,63 @@
+{
+  "first_name": "Alex",
+  "last_name": "Rivera",
+  "full_name": "Alex Rivera",
+  "email": "alex.rivera@example.com",
+  "phone": "+1 (555) 234-5678",
+  "gender": "Decline to identify",
+  "address_line1": "742 Evergreen Terrace",
+  "city": "San Francisco",
+  "state": "CA",
+  "postal_code": "94107",
+  "country": "United States",
+  "linkedin": "https://linkedin.com/in/alexrivera-ai",
+  "github": "https://github.com/alexrivera-ai",
+  "portfolio_website": "https://alexrivera.dev",
+  "twitter": "https://twitter.com/alexrivera_ai",
+  "current_title": "Software Engineer",
+  "current_company": "Apex AI Technologies",
+  "years_of_experience": "4",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Playwright",
+    "LLMs",
+    "RAG",
+    "LangChain",
+    "PostgreSQL",
+    "Docker",
+    "TypeScript",
+    "React",
+    "Git"
+  ],
+  "primary_skill": "Python & Browser Automation",
+  "highest_education_level": "Bachelor's Degree",
+  "work_authorization_us": "Yes",
+  "require_visa_sponsorship": "No",
+  "notice_period": "2 weeks",
+  "desired_salary": "$145,000 USD / year",
+  "willing_to_relocate": "Yes",
+  "education_history": [
+    {
+      "institution": "Stanford University",
+      "degree": "B.S. in Computer Science",
+      "graduation_year": "2023",
+      "gpa": "3.85 / 4.0"
+    }
+  ],
+  "experience_history": [
+    {
+      "company": "Apex AI Technologies",
+      "role": "Software Engineer",
+      "start_date": "2023",
+      "end_date": "Present",
+      "description": "Developed high-throughput distributed microservices, agentic workflows, and LLM-powered enterprise automation pipelines using Python, FastAPI, and Playwright."
+    }
+  ],
+  "custom_answers": {
+    "why_work_here": "I am passionate about applying cutting-edge AI and agentic automation to solve real-world workflows at scale.",
+    "greatest_strength": "Deep expertise in full-stack Python systems, autonomous agent architectures, and resilient browser automation.",
+    "biggest_challenge": "Migrated legacy synchronous crawling pipelines to asynchronous event-driven Playwright microservices, boosting throughput 4x while handling complex dynamic SPAs.",
+    "referral_source": "LinkedIn Job Board"
+  }
+}
